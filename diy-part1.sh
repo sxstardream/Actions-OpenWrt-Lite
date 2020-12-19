@@ -24,3 +24,4 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luc
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config #新argon主题控制程序
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan #微信推送
 git clone https://github.com/zzsj0928/luci-app-serverchand.git package/luci-app-serverchand #钉钉推送
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff #关机
